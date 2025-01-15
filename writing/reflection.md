@@ -19,4 +19,4 @@ In our example, all of the input values are biased to the individual person. For
 What was easy to understand about the neural network?
 What challenges did they face?
 
-The easiest part about figuring out how neural networks work was figuring out 
+The easiest part about figuring out how neural networks work was creating the weights and inputs for our application. The challenge was making sure that our activation function was correct and that it was producing an output that was acceptable. 
