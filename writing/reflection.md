@@ -1,4 +1,4 @@
-## Names: TODO
+## Names: Luke Barker, Arina Otbliesk
 
 ### Performance
 
@@ -6,11 +6,17 @@ Did the network's output make sense?
 How could you adjust weights or activation functions to improve accuracy?
 What did you notice about how small changes (e.g., weights) affect outcomes?
 
+Our networks output made sense because the results we got connected to the weights we created and the numbers we set in our simulation. After running our first simulation with the peanut butter and jelly sandwiches, we ran it with another food and changed the numbers, and our ouput changed. We noticed that based on the weight, the changes to the input values are not equal because they are weighted differently.
+
 ### Ethics
 
 What potential biases or ethical considerations could arise in your example scenario?
+
+In our example, all of the input values are biased to the individual person. For example, one person could think one thing is healthier or more appetizing than another person.
 
 ### Reflection
 
 What was easy to understand about the neural network?
 What challenges did they face?
+
+The easiest part about figuring out how neural networks work was figuring out 
