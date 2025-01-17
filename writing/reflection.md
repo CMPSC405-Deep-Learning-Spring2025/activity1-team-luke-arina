@@ -6,7 +6,14 @@ Did the network's output make sense?
 How could you adjust weights or activation functions to improve accuracy?
 What did you notice about how small changes (e.g., weights) affect outcomes?
 
-Our networks output made sense because the results we got connected to the weights we created and the numbers we set in our simulation. After running our first simulation with the peanut butter and jelly sandwiches, we ran it with another food and changed the numbers, and our ouput changed. We noticed that based on the weight, the changes to the input values are not equal because they are weighted differently.
+Our networks output made sense because the results we got connected to the weights we created and the numbers we set in our simulation. Our network basically decided if we want to eat food based of 3 parameters: 
+1) how hungry w are
+2) how healthy the food it
+3) how appetizing this food looks
+
+Accuracy of this network can be improved by adding more weights and adding more coplexity to it, also customizing it more towards 1 person, instead of our agreed opinion.
+
+After running our first simulation with the peanut butter and jelly sandwiches, we ran it with another food and changed the numbers, and our ouput changed. We noticed that based on the weight, the changes to the input values are not equal because they are weighted differently.
 
 ### Ethics
 
