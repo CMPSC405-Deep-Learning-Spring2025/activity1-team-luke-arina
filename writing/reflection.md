@@ -20,3 +20,5 @@ What was easy to understand about the neural network?
 What challenges did they face?
 
 The easiest part about figuring out how neural networks work was creating the weights and inputs for our application. The challenge was making sure that our activation function was correct and that it was producing an output that was acceptable. 
+
+<img width="501" alt="Screenshot 2025-01-17 at 9 10 25 AM" src="https://github.com/user-attachments/assets/3a8d3728-bb20-4b34-bf3e-bbbc938036ac" />
